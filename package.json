@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jodev7/gulp-assembly#readme",
   "devDependencies": {
+    "del": "^6.0.0",
     "gulp": "^4.0.2"
   }
 }
