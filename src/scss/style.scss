@@ -1,5 +1,7 @@
-body {
+@import './fonts.scss';
+h1 {
     background: url('@img/cyberpunk.jpg') 0 0 no-repeat;
+    font-family: 'OpenSans';
 }
 
 @media (max-width: 768px) {
