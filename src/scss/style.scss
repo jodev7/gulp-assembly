@@ -1,0 +1,15 @@
+body {
+    background: url('@img/cyberpunk.jpg') 0 0 no-repeat;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: aqua;
+    }
+}
+
+@media (max-width: 320px) {
+    body {
+        background-color: rgb(255, 218, 6);
+    }
+}
